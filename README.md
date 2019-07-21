@@ -1,4 +1,4 @@
-# Zeppelin
+# Hands on Zeppelin Notebook
 In this notebook, I have read data from a comma separated file (.csv) file and use Spark to convet it into a spark dataframe. Then, I query data using sql command, and visualize it.
 
 ### Steps Followed are: 
